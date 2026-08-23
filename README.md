@@ -1,2 +1,2 @@
-# Python
-pythin repo
+#Python repo
+🧮
