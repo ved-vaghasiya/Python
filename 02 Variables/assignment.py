@@ -30,5 +30,4 @@ student1 = "Rahul"
 student_name1 = "Rahul"
 class1 ="B.Tech"
 print(student1,student_name1,class1)
- 
-    
+
