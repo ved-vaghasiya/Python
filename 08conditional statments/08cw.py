@@ -50,7 +50,7 @@
 #       print("wrong credintials"
 
 
-#example.......
+# #example.......
 # marks = int(input("Enter Your Marks:"))
 
 # if marks > 90 :
@@ -65,13 +65,17 @@
 # else:
 #     print("you are fail , better lucj next time")
 
+# Calculator................................................................................................................................
+y=int(input("select your operaton"))
+
+if y==1 or y==2 or y==3 or y==4 or y==5
 
 a=int(input("enter your number a :"))
 b=int(input("enter your number b :"))
 
 print("You have following ;\n 1.Addtion\n 2.Subtraction \n 3.Multiplication \n 4.Division \n 5.Floor division ")
 
-y=int(input("select your operaton"))
+
 if y==1:
     print(a+b)
 elif y==2:
