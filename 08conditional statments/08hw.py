@@ -246,11 +246,13 @@ if number < 0 or number > 100:
 
            
 #26.....
-is_closed = False
-
-if not is_closed:
-    print("Open")
-
+has_id=input(enterif he has id (yes/no) : ").strip()lower() =="yes"
+if has_id=="no":
+    print("Please bring your id !!")
+elif has_id =="yes":
+    print("welcome")
+else:
+    ("invalid credintials")
 
 #27.....
 number = int(input("Enter a number: "))
